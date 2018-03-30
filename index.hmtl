@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>adamini-online.de</title>
+    <description>github pages and jekyll test project </description>
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">home</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    		<div class="inner_container">
+        		<h1>This is the first title</h1>
+          <p>And this is a line of <code>test</code> text <em>Update?</em> No, there are no updates ...</p>
+    		</div>
+		</div>
+		<footer>
+    		<ul>
+        		<li>another list element</li>
+        		<li>and another one ...</li>
+			</ul>
+		</footer>
+	</body>
+</html>
