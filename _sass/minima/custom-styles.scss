@@ -1,0 +1,11 @@
+.site-title {
+  @include relative-font-size(5.625);
+}
+
+.site-header {
+  border-bottom: none;
+}
+
+.site-footer {
+  display: none;
+}
