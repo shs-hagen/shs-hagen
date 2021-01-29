@@ -9,9 +9,8 @@ theme: minima
 twitter_username: ""
 github_username: ""
 linkedin_username: ""
-rss: rss
+rss: ""
 
-# Minima: show excerpts in the frontpage
 show_excerpts: true
 
 minima:
@@ -28,7 +27,6 @@ include:
 
 exclude: 
     - .gitignore
-    - docker-compose.yml
     - Gemfile
     - Gemfile.lock
     - LICENSE
