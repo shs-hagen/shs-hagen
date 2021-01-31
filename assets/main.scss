@@ -4,5 +4,14 @@
 @import "{{ site.theme }}";
 
 * {
-  color:red!important;
+  color:red;
+}
+
+
+.site-title {
+  font-size: 40px; 
+}
+
+.site-header {
+  border: none;
 }
