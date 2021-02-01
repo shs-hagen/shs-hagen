@@ -5,14 +5,17 @@ layout: default
 
 ## Impressum
 
-Offizieller Vereinsname laut Satzung:  
+{:.foo}
+![test](/assets/images/shs-logo.png)
 
-**SHS-Hagen-Selbsthilfe Sucht**  
+Offizieller Vereinsname laut Satzung: **SHS-Hagen-Selbsthilfe Sucht**  
 
 Gründungsdatum: 05. Oktober 2020 (mit Satzung)  
 
 Vorstandsvorsitzender: Karl-Heinz Jäger, Bergstr. 63, 58095 Hagen  
 Vereinsanschrift: Bergstr. 63, 58095 Hagen  
+
+Email: **shsselbsthilfesucht@gmail.com**  
 
 ## Datenschutzerklärung
 

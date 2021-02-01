@@ -3,16 +3,15 @@ title: ""
 layout: home
 ---  
 
-{:.foo}
-![test](/assets/images/shs-logo.png)
+## Willkommen bei SHS-Hagen-Selbsthilfe Sucht
 
 Unsere Suchtselbsthilfegruppen aus verschiedenen Bereichen wenden sich an Menschen aus Hagen und der näheren Umgebung.  
 
 Wir unterstützen in enger Zusammenarbeit mit der Stadt Hagen, der Caritas und dem Selbsthilfebüro Personen,  
-- die sich aus ihrer Sucht oder ihrem Suchtverhalten befreien möchten  
-- die allein für ihre Probleme mit der Sucht keinen hinreichenden Ausweg finden  
-- die eine Gemeinschaft suchen, die ihnen hilft, wieder ein zufriedenes Leben zu führen  
-- die gleichgesinnte Gesprächspartner suchen  
+- die sich aus ihrer Sucht oder ihrem Suchtverhalten befreien möchten.  
+- die allein für ihre Probleme mit der Sucht keinen hinreichenden Ausweg finden.
+- die eine Gemeinschaft suchen, die ihnen hilft, wieder ein zufriedenes Leben zu führen.  
+- die gleichgesinnte Gesprächspartner suchen.  
 
 ## Nehmen Sie Kontakt mit uns auf!
 
@@ -25,9 +24,9 @@ Gespräche, Nachfragen und Informationen nach Absprache jederzeit möglich.
 
 Bitte per Email anmelden und Termin vereinbaren.  
 
-**Öffnungszeiten Büro:**  
+## Öffnungszeiten Büro 
+
 Montag bis Freitag von 9:00 bis 12:00 Uhr und nach Vereinbarung  
 Telefon: 02331- 933 49 59  
-Fax: 02331- 933 49 58
-
-Sie erreichen uns per Email: **shsselbsthilfesucht@gmail.com**  
+Fax: 02331- 933 49 58  
+Email: shsselbsthilfesucht@gmail.com  

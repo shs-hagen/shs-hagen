@@ -1,7 +1,8 @@
-title: "SHS Hagen"
+title: "SHS Hagen SelbsthilfeSucht n.e.V"
 description: Willkommen bei SHS-Hagen-Selbsthilfe Sucht!
 theme: minima
 
+base_url: "http://localhost:4000"
 # Minima social links
 # twitter_username: ""
 # github_username: ""

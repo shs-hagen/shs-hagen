@@ -6,7 +6,23 @@
 
 .foo {
   text-align: center;
-  width: 100px;
+  width: 80px;
 }
 
 .site-footer * {display: none;}
+
+.header-logo {
+  width: 40px;
+  padding: 10px 5px 0 0;
+  float: left;
+}
+
+a.site-title {
+  float: unset;
+  font-weight: bold;
+  color: red;
+
+  &:visited {
+    color: red;
+  }
+}
