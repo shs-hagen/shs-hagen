@@ -1,14 +1,12 @@
-title: "test"
-description: "test"
-author: "test"
-
+title: "SHS Hagen"
+description: Willkommen bei SHS-Hagen-Selbsthilfe Sucht!
 theme: minima
 
 # Minima social links
-twitter_username: ""
-github_username: ""
-linkedin_username: ""
-rss: ""
+# twitter_username: ""
+# github_username: ""
+# linkedin_username: ""
+# rss: "rss"
 
 show_excerpts: true
 

@@ -2,6 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
-.site-title {font-size: 50px;}
-.site-header { border: none;}
-.site-footer {display: none;}
+// custom styles here
+
+.foo {
+  text-align: center;
+  width: 100px;
+}
+
+.site-footer * {display: none;}
