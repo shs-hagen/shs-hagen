@@ -1,13 +1,8 @@
-title: "SHS Hagen SelbsthilfeSucht n.e.V"
-description: Willkommen bei SHS-Hagen-Selbsthilfe Sucht!
+title: "SHS Hagen Selbsthilfe Sucht"
+description: Willkommen bei SHS Hagen-Selbsthilfe Sucht!
 theme: minima
 
-base_url: "http://localhost:4000"
-# Minima social links
-# twitter_username: ""
-# github_username: ""
-# linkedin_username: ""
-# rss: "rss"
+base_url: ""
 
 show_excerpts: true
 
