@@ -8,7 +8,7 @@ layout: default
 {:.foo}
 ![test](/assets/images/shs-logo.png)
 
-Offizieller Vereinsname laut Satzung: **SHS-Hagen-Selbsthilfe Sucht**  
+Offizieller Vereinsname laut Satzung: **SHS Hagen-Selbsthilfe Sucht**  
 
 Gründungsdatum: 05. Oktober 2020 (mit Satzung)  
 
