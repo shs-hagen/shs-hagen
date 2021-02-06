@@ -3,7 +3,7 @@ title: ""
 layout: home
 ---  
 
-## Willkommen bei SHS-Hagen-Selbsthilfe Sucht
+## Willkommen bei SHS Hagen-Selbsthilfe Sucht
 
 Unsere Suchtselbsthilfegruppen aus verschiedenen Bereichen wenden sich an Menschen aus Hagen und der näheren Umgebung.  
 
