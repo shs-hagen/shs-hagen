@@ -1,3 +1,3 @@
-## adamini-online.de
+## SHS Hagen
 
-My personal website
+Vereinswebseite shs-hagen.de
