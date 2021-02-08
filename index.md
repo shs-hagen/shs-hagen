@@ -31,6 +31,4 @@ Telefon: 02331- 933 49 59
 Fax: 02331- 933 49 58  
 Email: shsselbsthilfesucht@gmail.com  
 
-## Pflichtangaben
-
 [Impressum und Datenschutz](about.md)
