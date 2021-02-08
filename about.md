@@ -5,7 +5,7 @@ layout: default
 
 ## Impressum
 
-{:.foo}
+{:.logo}
 ![test](/assets/images/shs-logo.png)
 
 Offizieller Vereinsname laut Satzung: **SHS Hagen-Selbsthilfe Sucht**  
