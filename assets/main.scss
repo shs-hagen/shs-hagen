@@ -4,10 +4,14 @@
 @import "{{ site.theme }}";
 // custom styles here
 
-.foo {
-  text-align: center;
-  width: 80px;
-}
+.home {
+  width: 90%;
+  margin: 0 auto;
+  box-shadow: 5px 5px 10px 0px #d0cece9c;
+  padding: 10px;
+  border-radius: 10px;
+  border: 1px solid #ff000017;
+};
 
 .site-footer * {display: none;}
 
