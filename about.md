@@ -1,6 +1,6 @@
 ---
 title: "Impressum & Datenschutz"
-layout: default
+layout: home
 ---
 
 ## Impressum
