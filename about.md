@@ -1,5 +1,5 @@
 ---
-title: "Impressum & Datenschutz"
+title: ""
 layout: home
 ---
 
