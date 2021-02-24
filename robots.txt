@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /about.html
+Sitemap: https://shs-hagen.de/sitemap.xml
