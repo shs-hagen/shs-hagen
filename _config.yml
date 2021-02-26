@@ -3,6 +3,7 @@ description: Willkommen bei SHS Hagen-Selbsthilfe Sucht!
 theme: minima
 
 base_url: ""
+lang: 'de'
 
 show_excerpts: true
 
