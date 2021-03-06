@@ -25,7 +25,7 @@ Unser Hilfsangebot richtet sich sowohl an Betroffene, Angehörige und Interessie
 
 ## Unsere Selbsthilfegruppen
 
-Betreut werden zurzeit ca. 80 Personen in 8 Gruppen. Eine Aufnahme in die jeweilige Gruppe erfolgt nach ein oder mehreren initialen Einzelgesprächen. 
+Betreut werden zurzeit ca. 80 Personen in 8 Gruppen. Eine Aufnahme in die jeweilige Gruppe erfolgt nach einem oder mehreren initialen Einzelgesprächen. 
 
 ## Öffnungszeiten Büro  
 
