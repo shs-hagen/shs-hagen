@@ -15,13 +15,13 @@ Wir unterstützen in enger Zusammenarbeit mit der Stadt Hagen, der Caritas und d
 - die eine Gemeinschaft suchen, die ihnen hilft, wieder ein zufriedenes Leben zu führen.  
 - die gleichgesinnte Gesprächspartner suchen.  
 
+Ein Selbsttest zum Thema Sucht dient nur einer ersten groben Orientierung hinsichtlicht der eigenen Gewohnheiten. Ein persönliches Gespräch ist nicht ersetzbar. Wenn Sie unsicher sind, setzen sich mit uns in Verbindung.
+
 ## Unser Hilfsangebot
 
 Wir möchten den Betroffenen wieder ein aktives und freies und gesundes Leben zu ermöglichen. In unserem Verein finden Sie individuelle Hilfe und die Möglichkeit sich auszutauschen. Sie sind nicht allein! Gruppen-Gespräche zeigen Ihnen einen Weg aus der Sucht. 
 
 Unser Hilfsangebot richtet sich sowohl an Betroffene, Angehörige und Interessierte. Bitte melden Sie sich bei Fragen per E-Mail oder telefonisch, um ein Gespräch zu führen, Nachfragen loszuwerden oder sonstige Information zu erhalten. Nehmen Sie Kontakt mit uns auf!
-
-Ein Selbsttest zum Thema Sucht dient nur einer ersten groben Orientierung hinsichtlicht der eigenen Gewohnheiten. Ein persönliches Gespräch ist nicht ersetzbar. Wenn Sie unsicher sind, möchten wir Sie bitten, sich mit uns in Verbindung zu setzen.
 
 ## Unsere Selbsthilfegruppen
 
