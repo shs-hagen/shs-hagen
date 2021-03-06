@@ -3,6 +3,10 @@ title: "Impressum und Datenschutz"
 layout: page
 ---
 
+# Impressum & Datenschutz
+
+Pflichtinformationen zu dieser Webseite. 
+
 ## Impressum
 
 {:.logo}
