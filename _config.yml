@@ -11,7 +11,8 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - about.md
+  - impressum.md
+  - datenschutz.md
 
 include:
     - _pages
