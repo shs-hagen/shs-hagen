@@ -25,14 +25,15 @@ Ein Selbsttest zum Thema Sucht dient nur einer ersten groben Orientierung hinsic
 
 ## Unsere Selbsthilfegruppen
 
-Betreut werden zurzeit ca. 80 Personen in 8 Gruppen. Eine Aufnahme in die jeweilige Gruppe erfolgt nach den vereinbarten Einzelgesprächen. Bitte melden Sie sich per Email an und vereinbaren einen Termin.  
+Betreut werden zurzeit ca. 80 Personen in 8 Gruppen. Eine Aufnahme in die jeweilige Gruppe erfolgt nach den vereinbarten Einzelgesprächen. 
 
 ## Öffnungszeiten Büro 
 
-Sie erreichen uns telefonisch während der Öffnungszeiten, noch einfacher über unsere Email-Adresse.  
+Für eine erste Kontaktaufnahme zur Aufname, Fragen oder zur Vereinbarung eines ersten Gesprächstermins melden Sie sich per Email oder Telefon.   
+Sie erreichen uns telefonisch während der Öffnungszeiten, noch einfacher über unsere Email-Adresse. Wir melden uns zeitnah zurück! 
 
-Montag bis Freitag von 9:00 bis 12:00 Uhr und nach Vereinbarung  
-Telefon: 02331- 933 49 59  
-Fax: 02331- 933 49 58  
-Email: shsselbsthilfesucht@gmail.com  
+Öffnungszeiten: Montag bis Freitag von 9:00 bis 12:00 Uhr (und nach Vereinbarung)
+Telefon: 02331/933 49 59  
+Fax: 02331/933 49 58  
+Email: **shsselbsthilfesucht@gmail.com**
 
