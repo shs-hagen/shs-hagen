@@ -1,11 +1,9 @@
 ---
-title: ""
+title: "SHS Hagen-Selbsthilfe Sucht"
 layout: home
 ---  
 
-# SHS Hagen-Selbsthilfe Sucht
-
-Willkommen auf den Webseiten unseres Vereins *SHS Hagen-Selbsthilfe Sucht*.  
+Willkommen auf den Seiten des Vereins *SHS Hagen-Selbsthilfe Sucht*.  
 
 Unsere Suchtselbsthilfegruppen aus verschiedenen Bereichen wenden sich vor allem an Menschen aus Hagen und der näheren Umgebung.  
 
@@ -21,7 +19,7 @@ Ein Selbsttest zum Thema Sucht (wie z.B. auf [kenn-dein-limit.de](https://www.ke
 
 Wir möchten den Betroffenen wieder ein aktives und freies und gesundes Leben zu ermöglichen. In unserem Verein finden Sie individuelle Hilfe und die Möglichkeit sich auszutauschen. Sie sind nicht allein! Gruppen-Gespräche zeigen Ihnen einen Weg aus der Sucht. 
 
-Unser Hilfsangebot richtet sich sowohl an Betroffene, Angehörige und Interessierte. Bitte melden Sie sich bei Fragen per E-Mail oder telefonisch, um ein Gespräch zu führen, Nachfragen loszuwerden oder sonstige Information zu erhalten. Nehmen Sie Kontakt mit uns auf!
+Unser Hilfsangebot richtet sich sowohl an Betroffene, Angehörige und Interessierte. Bitte melden Sie sich bei Fragen per E-Mail oder telefonisch, um ein Gespräch zu führen oder weitere Information zu erhalten. Nehmen Sie Kontakt mit uns auf!
 
 ## Unsere Selbsthilfegruppen
 
