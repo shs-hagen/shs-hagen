@@ -4,15 +4,17 @@
 @import "{{ site.theme }}";
 
 .home, .post {
-  width: 90%;
+  width: 100%;
   margin: 0 auto;
-  box-shadow: 5px 5px 10px 0px #d0cece9c;
+  // box-shadow: 5px 5px 5px 0px #d0cece9c;
   padding: 0 15px 0 15px;
-  border-radius: 10px;
-  border: 1px solid #ff000017;
+  //border-radius: 5px;
+  //border: 1px solid #ff000017;
 };
 
-.post-content h1, h2, h3 { margin-top: 10px; }
+.post-content h1, h2, h3 { 
+  margin-top: 10px; 
+}
 
 .logo {
   text-align: center;
@@ -24,7 +26,8 @@
   padding: 10px 5px 0 0;
   float: left;
 }
-
+  
+/*
 a.site-title {
   float: unset;
   font-weight: bold;
@@ -34,11 +37,10 @@ a.site-title {
     color: red;
   }
 }
+*/
 
 h1.post-title {
     font-size: 28px;
-    letter-spacing: -1px;
-    line-height: 1;
     margin: 10px 0 0 0;
 }
 
