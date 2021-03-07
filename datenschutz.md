@@ -3,8 +3,6 @@ title: "Datenschutzerklärung"
 layout: page
 ---
 
-# Datenschutzerklärung
-
 Wir haben diese Datenschutzerklärung (Fassung 01.02.2021-311257227) verfasst, um Ihnen gemäß der Vorgaben der Datenschutz-Grundverordnung (EU) 2016/679 zu erklären, welche Informationen wir sammeln, wie wir Daten verwenden und welche Entscheidungsmöglichkeiten Sie als Besucher dieser Webseite haben.
 
 Leider liegt es in der Natur der Sache, dass diese Erklärungen sehr technisch klingen, wir haben uns bei der Erstellung jedoch bemüht die wichtigsten Dinge so einfach und klar wie möglich zu beschreiben.

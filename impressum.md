@@ -3,8 +3,6 @@ title: "Impressum"
 layout: page
 ---
 
-# Impressum
-
 {:.logo}
 ![SHS Hagen Logo](/assets/images/shs-logo.png)
 
