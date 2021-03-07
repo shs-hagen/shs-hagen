@@ -6,11 +6,6 @@
     <div class="footer-col-wrapper">
       <div class="footer-col">
         <p class="feed-subscribe">
-          <!-- <a href="{{ 'feed.xml' | relative_url }}">-->
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
         </p>
       {%- if site.author %}
         <ul class="contact-list">
@@ -24,7 +19,14 @@
       {%- endif %}
       </div>
       <div class="footer-col">
-        <p>{{ site.description | escape }}</p>
+        <p>SHS Hagen-Selbsthilfe Sucht | {{ site.description | escape }}</p>
+        <ul class="footer-nav">
+          {%- for page in site.pages -%}
+            {% if page.title == 'Impressum' or page.title == 'Datenschutzerklärung' %}
+              <li><a class="page-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a></li>
+            {% endif %}
+          {%- endfor -%}
+        <ul>
       </div>
     </div>
 

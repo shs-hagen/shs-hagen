@@ -1,4 +1,6 @@
-title: "SHS Hagen - Unsere Selbsthilfegruppen helfen aus der Sucht" 
+title: "SHS Hagen- Selbsthilfegruppen in Hagen" 
+header_title: "SHS Hagen"
+description: 'Unsere Selbsthilfegruppen helfen aus der Sucht!'
 theme: minima
 
 base_url: ""
@@ -11,8 +13,6 @@ minima:
 
 # Minima: custom header links
 header_pages:
-  - impressum.md
-  - datenschutz.md
 
 include:
     - _pages
