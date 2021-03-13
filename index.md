@@ -19,7 +19,7 @@ Wir möchten den Betroffenen wieder ein aktives und freies und gesundes Leben zu
 
 Ein Selbsttest zum Thema Sucht (wie z.B. zum Thema Alkohol auf [kenn-dein-limit.de](https://www.kenn-dein-limit.de/alkohol/alkoholwissen-kompakt/)) dient nur einer ersten groben Orientierung hinsichtlicht der eigenen Gewohnheiten. Ein persönliches Gespräch ist nicht ersetzbar. Bitte setzen sich mit uns in Verbindung!
 
-Sie sind nicht allein! Gruppen-Gespräche zeigen Ihnen einen Weg aus der Sucht. 
+Sie sind nicht allein! Sucht-Beratung und Gruppen-Gespräche zeigen Ihnen einen Weg aus der Sucht. 
 
 ## Unsere Selbsthilfegruppen
 
