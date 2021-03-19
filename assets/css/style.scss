@@ -3,13 +3,14 @@
 
 @import "{{ site.theme }}";
 
+body {
+  width: 100%;
+}
+
 .home, .post {
   width: 100%;
   margin: 0 auto;
-  // box-shadow: 5px 5px 5px 0px #d0cece9c;
   padding: 0 15px 0 15px;
-  //border-radius: 5px;
-  //border: 1px solid #ff000017;
 };
 
 .post-content h1, h2, h3 { 
@@ -46,4 +47,27 @@ h1.post-title {
     float: left;
     margin-right: 10px;
   }
+}
+
+.section {
+  background: #ff6b6b;
+  
+  &__title {
+    font-weight: 300;
+    color: red;
+    border-bottom: 1px solid red;
+  }
+
+  &__wrapper {
+    margin: 10px;
+    border-top: 1px solid red;
+  }
+
+  &__content {
+    padding: 20px;
+  }
+}
+
+.page-heading {
+  margin-bottom: 30px;
 }
