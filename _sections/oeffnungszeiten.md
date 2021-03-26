@@ -2,13 +2,19 @@
 title: Unsere Öffnungszeiten  
 image: path/to/img
 order: 999
+background-color: 'floralwhite'
+foreground-color: '#000'
 ---
 
-Öffnungszeiten unsers Büros:  
-**Montag bis Freitag von 9:00 bis 12:00 Uhr (und nach Vereinbarung)**
+Bitte melden Sie sich für eine erste Kontaktaufnahme über unser Büro. Ob zur Aufname, weiterführenden Fragen oder zur Vereinbarung eines ersten unverbindlichen Gesprächstermins, wir sind für Sie da!
 
-Bitte melden Sie sich für eine erste Kontaktaufnahme. Ob zur Aufname, weiterführenden Fragen oder zur Vereinbarung eines ersten unverbindlichen Gesprächstermins, wir sind für Sie da. Sie erreichen uns telefonisch während der Öffnungszeiten, noch einfacher über unsere Email-Adresse. Wir melden uns zeitnah zurück! 
+{:.logo-welcome}
+![SHS logo](assets\images\shs-logo-header-yellow.png)
 
-Telefon: 02331/933 49 59  
-Fax: 02331/933 49 58  
-Email: **shsselbsthilfesucht@gmail.com**  
+ Sie erreichen uns telefonisch
+
+ - **Montag bis Freitag von 9:00 bis 12:00 Uhr** unter **02331/933 49 59**
+
+Noch einfacher geht's über unsere Email-Adresse: **shsselbsthilfesucht@gmail.com**
+
+Wir melden uns zeitnah zurück!
