@@ -1,0 +1,26 @@
+.section {
+  background: #ff6b6b;
+
+  &__title {
+    font-size: 1.9rem;
+    text-transform: uppercase;
+    padding-left: 1.5rem;
+    font-weight: 400;
+    padding-top: 2.8rem;
+  }
+
+  &__wrapper {
+    min-width: 100%;
+    box-shadow: 0 0 0 10px #c7d9f3;
+  }
+
+  &__content {
+    padding: 1.5rem;
+
+    img {
+      border-radius: 10px;
+      border: 1px solid #123c5b;
+      opacity: 50%
+    }
+  }
+}

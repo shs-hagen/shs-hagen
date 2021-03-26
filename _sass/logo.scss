@@ -1,0 +1,15 @@
+.header-logo {
+  width: 40px;
+  padding: 10px 5px 0 0;
+  float: left;
+}
+
+.logo {
+  text-align: center;
+  width: 80px;
+
+  &-welcome {
+    text-align: center;
+    width: 120px;
+  }
+}

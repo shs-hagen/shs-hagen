@@ -1,0 +1,28 @@
+body {
+  background: #34a8ac;
+}
+
+.site {
+  &-header {
+    background: white;
+  }
+
+  &-nav .page-link {
+    color: #123c5b;
+  }
+
+  &-title, .site-title:visited {
+      color: #123c5b;
+  }
+}
+
+.page-heading {
+  color: #123c5b;
+}
+
+footer {
+  background: white;
+  &-col-wrapper {
+    color: #123c5b;
+  }
+}

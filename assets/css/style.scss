@@ -2,144 +2,19 @@
 ---
 
 @import "{{ site.theme }}";
+@import "section";
+@import "colors";
+@import "footer";
+@import "logo";
+@import "site";
+@import "page";
+@import "layout";
 
 body {
-  width: 100%;
+  font-size:16px;
   font-family: monospace;
-}
-
-.home, .post {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  align-content: center;
-};
-
-.post-content h1, h2, h3 {
-  margin-top: 10px;
-}
-
-.page-content {
-    padding: 30px 0;
-    flex: 1;
-    background: #34a8ac;
-}
-
-.site-header {
-  border-top: none;
-  border-bottom: 1px solid #123c5b;
-  min-height: 55.95px;
-  position: relative;
-  background: white;
-}
-
-.logo {
-  text-align: center;
-  width: 80px;
-}
-
-.logo-welcome {
-  text-align: center;
-  width: 120px;
 }
 
 a {
   text-decoration: underline;
-}
-
-.site-nav .page-link {
-  color: #123c5b;
-  line-height: 1.5;
-}
-
-.trigger {
-  margin-right: 20px;
-}
-
-.wrapper {
-  max-width: -webkit-calc(1000px - (30px * 2));
-  margin: 0 auto;
-}
-
-.site-title {
-  font-size: 1rem;
-  font-weight: 300;
-  line-height: 54px;
-  letter-spacing: -1px;
-  margin-bottom: 0;
-  text-transform: uppercase;
-  float: none;
-}
-
-.site-title, .site-title:visited {
-    color: #123c5b;
-}
-
-.header-logo {
-  width: 40px;
-  padding: 10px 5px 0 0;
-  float: left;
-}
-
-h1.post-title {
-    font-size: 28px;
-    margin: 10px 0 0 0;
-}
-
-.footer-nav {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-
-  li {
-    float: left;
-    margin-right: 10px;
-  }
-}
-
-.section {
-  background: #ff6b6b;
-
-  &__title {
-    font-size: 2.2rem;
-    text-transform: uppercase;
-    padding-left: 1.5rem;
-    font-weight: 400;
-    padding-top: 2.8rem;
-  }
-
-  &__wrapper {
-    min-width: 100%;
-    box-shadow: 0 0 0 10px #c7d9f3;
-  }
-
-  &__content {
-    padding: 1.5rem;
-
-    img {
-      border-radius: 10px;
-      border: 1px solid #123c5b;
-      opacity: 50%
-    }
-  }
-}
-
-.page-heading {
-  margin-bottom: 30px;
-  width: 100%;
-  text-align: center;
-  color: #123c5b;
-  text-transform: uppercase;
-}
-
-.site-footer {
-  border-top: 1px solid #123c5b;
-  padding: 30px 0;
-}
-
-.footer-col-wrapper {
-  font-size: 1rem;
-  color: #123c5b;
-  padding: 1.5rem;
 }
