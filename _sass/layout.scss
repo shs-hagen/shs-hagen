@@ -6,6 +6,13 @@
 };
 
 .wrapper {
-  max-width: -webkit-calc(1000px - (30px * 2));
+  max-width: -webkit-calc(800px - (30px * 2));
   margin: 0 auto;
+}
+
+@media screen and (max-width: 800px) {
+  .wrapper {
+    padding-right: 10px;
+    padding-left: 10px;
+  }
 }
