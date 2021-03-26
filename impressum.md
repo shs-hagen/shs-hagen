@@ -1,6 +1,6 @@
 ---
 title: "Impressum"
-layout: page
+layout: home
 ---
 
 {:.logo}

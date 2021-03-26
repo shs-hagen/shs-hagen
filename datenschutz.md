@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzerklärung"
-layout: page
+layout: home
 ---
 
 Wir haben diese Datenschutzerklärung (Fassung 01.02.2021-311257227) verfasst, um Ihnen gemäß der Vorgaben der Datenschutz-Grundverordnung (EU) 2016/679 zu erklären, welche Informationen wir sammeln, wie wir Daten verwenden und welche Entscheidungsmöglichkeiten Sie als Besucher dieser Webseite haben.
@@ -34,6 +34,6 @@ Ihnen stehen laut den Bestimmungen der DSGVO grundsätzlich die folgende Rechte 
 Widerspruchsrecht (Artikel 21 DSGVO)
 - Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung — einschließlich Profiling — beruhenden Entscheidung unterworfen zu werden (Artikel 22 DSGVO)
 
-Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich an die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) wenden.
+Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich an die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) wenden.  
 
 Quelle: Erstellt mit dem Datenschutz Generator von AdSimple in Kooperation mit hashtagbeauty.de
