@@ -6,15 +6,6 @@ background-color: 'floralwhite'
 foreground-color: '#000'
 ---
 
-Bitte melden Sie sich für eine erste Kontaktaufnahme über unser Büro. Ob zur Aufname, weiterführenden Fragen oder zur Vereinbarung eines ersten unverbindlichen Gesprächstermins, wir sind für Sie da!
+Bitte melden Sie sich für eine erste Kontaktaufnahme über unser Büro. Sie erreichen uns telefonisch **Montag bis Freitag von 9:00 bis 12:00 Uhr** unter **02331/933 49 59**. Noch einfacher geht's über unsere Email-Adresse: **<a href="mailto:shsselbsthilfesucht@gmail.com?subject=Anfrage über shs-hagen.de">shsselbsthilfesucht@gmail.com</a>**
 
-{:.logo-welcome}
-![SHS logo](assets\images\shs-logo-header-yellow.png)
-
- Sie erreichen uns telefonisch
-
- - **Montag bis Freitag von 9:00 bis 12:00 Uhr** unter **02331/933 49 59**
-
-Noch einfacher geht's über unsere Email-Adresse: **shsselbsthilfesucht@gmail.com**
-
-Wir melden uns zeitnah zurück!
+Ob zur Aufname, weiterführenden Fragen oder zur Vereinbarung eines ersten unverbindlichen Gesprächstermins, wir sind für Sie da! Wir melden uns zeitnah zurück!
