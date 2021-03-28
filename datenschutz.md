@@ -1,7 +1,37 @@
 ---
-title: "Datenschutzerklärung"
+title: "Impressum & Datenschutzerklärung"
 layout: home
 ---
+
+<style type="text/css" rel="stylesheet">
+body {
+  background: #34a8ac;
+}
+
+.section__content {
+  padding: 1.5rem;
+  background: antiquewhite;
+  box-shadow: 0 0 0 10px #c7d9f3;  
+}
+
+.page-heading {
+  margin-bottom: 50px;
+}
+
+</style>
+
+## Impressum
+
+* Offizieller Vereinsname laut Satzung: **SHS Hagen-Selbsthilfe Sucht**  
+* Gründungsdatum: 05. Oktober 2020 (mit Satzung)  
+* Vorstandsvorsitzender: Karl-Heinz Jäger, Bergstr. 63, 58095 Hagen  
+* Vereinsanschrift: Bergstr. 63, 58095 Hagen  
+
+* Telefon: **02331/933 49 59** (Mo-Fr 9:00 bis 12:00 Uhr)  
+* Fax: **02331/933 49 58**  
+* Email: **shsselbsthilfesucht@gmail.com**  
+
+## Datenschutz
 
 Wir haben diese Datenschutzerklärung (Fassung 01.02.2021-311257227) verfasst, um Ihnen gemäß der Vorgaben der Datenschutz-Grundverordnung (EU) 2016/679 zu erklären, welche Informationen wir sammeln, wie wir Daten verwenden und welche Entscheidungsmöglichkeiten Sie als Besucher dieser Webseite haben.
 

@@ -1,13 +1,16 @@
 .footer {
   &-nav {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+    list-style: none;
+    display: flex;
+    justify-content: center;
 
     li {
-      float: left;
       margin-right: 10px;
+    }
+
+    a, a:visited {
+      color: #000;
+      text-decoration: underline;
     }
   }
 

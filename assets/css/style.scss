@@ -28,6 +28,13 @@ h2 {
   line-height: 1.6;
 }
 
-a {
+a, a:visited {
+  color: white;
   text-decoration: underline;
+}
+
+.centered {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
 }

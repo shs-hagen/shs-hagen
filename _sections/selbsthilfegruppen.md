@@ -6,7 +6,7 @@ foreground-color: '#fff'
 ---
 
 
-Ein Selbsttest zum Thema Sucht (wie z.B. zum Thema Alkohol auf [kenn-dein-limit.de](https://www.kenn-dein-limit.de/alkohol/alkoholwissen-kompakt/)) dient nur einer ersten groben Orientierung hinsichtlicht der eigenen Gewohnheiten. Ein persönliches Gespräch ist nicht ersetzbar. Bitte setzen Sie sich mit uns in Verbindung!
+Ein Selbsttest zum Thema Sucht (wie z.B. zum Thema Alkohol auf [kenn-dein-limit.de](https://www.kenn-dein-limit.de/alkohol/alkoholwissen-kompakt/) dient nur einer ersten groben Orientierung hinsichtlicht der eigenen Gewohnheiten. Ein persönliches Gespräch ist nicht ersetzbar. Bitte setzen Sie sich mit uns in Verbindung!
 
 ![Menschengruppe Gemeinschaft](assets\images\group.png)
 

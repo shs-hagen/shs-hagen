@@ -1,4 +1,8 @@
-<div class="section__wrapper">
+{% capture text-colors %}
+ style="background:{{ section.background-color }}; color: {{ section.foreground-color }}; a: {{ section.foreground-color }};"
+{% endcapture %}
+
+<div class="section__wrapper" {{ text-colors }}>
   <h2 class="section__title">{{ section.title | markdownify }}</h2>
-  <div class="section__content">{{ section.content | markdownify }}</div>
+  <div class="section__content" {{ text-colors }} >{{ section.content | markdownify }}</div>
 </div>

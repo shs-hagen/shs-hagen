@@ -1,5 +1,5 @@
 ---
-title: Unser Verein
+title: Der Verein SHS HAGEN-SELBSTHILFE SUCHT
 image: path/to/img
 order: 1
 background-color: 'antiquewhite'
