@@ -9,13 +9,9 @@ body {
 }
 
 .section__content {
-  padding: 1.5rem;
+  margin: 1.5rem;
   background: antiquewhite;
   box-shadow: 0 0 0 10px #c7d9f3;  
-}
-
-.page-heading {
-  margin-bottom: 50px;
 }
 
 </style>
