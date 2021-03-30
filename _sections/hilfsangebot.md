@@ -5,8 +5,8 @@ background-color: 'cadetblue'
 foreground-color: '#fff'
 ---
 
-Unser Hilfsangebot richtet sich sowohl an Betroffene, Angehörige und Interessierte. Wir möchten den Betroffenen wieder ein aktives und freies und gesundes Leben zu ermöglichen.
+Unser Hilfsangebot richtet sich sowohl an Betroffene, Angehörige und Interessierte. Wir möchten den Betroffenen wieder ein aktives,  freies und gesundes Leben ermöglichen.
 
 ![Menschengruppe](assets\images\people.png)
 
-In unserem Verein finden Sie individuelle Hilfe und die Möglichkeit sich auszutauschen. Bitte melden Sie sich bei Fragen, um ein Gespräch zu führen oder weitere Information zu erhalten.
+In unserem Verein finden Sie individuelle Hilfe und die Möglichkeit, sich auszutauschen. Bitte melden Sie sich bei Fragen, um ein Gespräch zu führen oder weitere Information zu erhalten.
