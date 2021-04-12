@@ -12,6 +12,6 @@ Der Verein **SHS Hagen-Selbsthilfe Sucht** unterstützt in enger Zusammenarbeit 
 - die eine Gemeinschaft suchen, die ihnen hilft, wieder ein zufriedenes Leben zu führen.  
 - die gleichgesinnte Gesprächspartner suchen.  
 
-![Menschengruppe Gemeinschaft](assets\images\people2.png)
+![Menschengruppe Gemeinschaft](assets\images\people2.jpg)
 
 Unsere Suchtselbsthilfegruppen aus verschiedenen Bereichen wenden sich vor allem an Menschen aus Hagen und der näheren Umgebung.  
