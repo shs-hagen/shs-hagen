@@ -1,3 +1,5 @@
 ## SHS Hagen
 
-Vereinswebseite shs-hagen.de
+Vereinswebseite des SHS Hagen-Selbsthilfe Sucht
+
+https://www.shs-hagen.de
