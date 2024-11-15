@@ -12,10 +12,10 @@ Erstellt mit https://jekyllrb.com/, basierend auf dem minima Theme https://githu
 - Die Datenschutz-Seite: https://github.com/shs-hagen/shs-hagen/blob/master/datenschutz.md
 - Die Texte nutzen Markdown, z. B. für Fettdruck. Probiere es hier aus: https://dillinger.io/
 
-### Funktionsweise
+### Aktuelle Funktionsweise
 
-- Die Index-Seite enthält eine Schleife um alle _sections anzuzeigen: https://github.com/shs-hagen/shs-hagen/blob/master/index.md
-- Jede _section definiert ihren eigenen `title`, `order`, `background-color` und `foreground-color` oben im Frontmatter der jeweiligen Seite
+- Die Index-Seite (https://github.com/shs-hagen/shs-hagen/blob/master/index.md) enthält eine Schleife um alle Seiten aus dem Ordner `_sections` (https://github.com/shs-hagen/shs-hagen/tree/master/_sections) anzuzeigen
+- Jede `_section` definiert ihren eigenen `title`, `order`, `background-color` und `foreground-color` oben im Frontmatter der jeweiligen Seite
 
 ### Deployment
 
