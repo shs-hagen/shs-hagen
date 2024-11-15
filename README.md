@@ -10,7 +10,7 @@ Erstellt mit https://jekyllrb.com/, basierend auf dem minima Theme https://githu
 
 - Die aktuelle Texte der Webseite: https://github.com/shs-hagen/shs-hagen/tree/master/_sections
 - Die Datenschutz-Seite: https://github.com/shs-hagen/shs-hagen/blob/master/datenschutz.md
-- Die Texte nutzen Markdown, z. B. für Fettdruck. Probiere es hier aus: https://dillinger.io/
+- Die Texte nutzen Markdown, z. B. für Fettdruck, Überschriften, etc. Ein Markdown-Editor zum Testen: https://dillinger.io/
 
 ### Aktuelle Funktionsweise
 
