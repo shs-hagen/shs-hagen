@@ -23,7 +23,7 @@ body {
 * Vorstandsvorsitzender: a.i. Gerd Adamini, Winkelstück 4, 58093 Hagen  
 * Vereinsanschrift: Bergstr. 63, 58095 Hagen  
 
-* Telefon: **02331/933 49 59** (Mo-Fr 9:00 bis 12:00 Uhr)  
+* Telefon: **02331/933 49 59** (Mo-Fr 10:00 bis 12:00 Uhr)  
 * Fax: **02331/933 49 58**  
 * Email: **shsselbsthilfesucht@gmail.com**  
 
