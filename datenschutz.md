@@ -20,7 +20,7 @@ body {
 
 * Offizieller Vereinsname laut Satzung: **SHS Hagen-Selbsthilfe Sucht**  
 * Gründungsdatum: 05. Oktober 2020 (mit Satzung)  
-* Vorstandsvorsitzender: Karl-Heinz Jäger, Bergstr. 63, 58095 Hagen  
+* Vorstandsvorsitzender: a.i. Gerd Adamini, Winkelstück 4, 58093 Hagen  
 * Vereinsanschrift: Bergstr. 63, 58095 Hagen  
 
 * Telefon: **02331/933 49 59** (Mo-Fr 9:00 bis 12:00 Uhr)  
