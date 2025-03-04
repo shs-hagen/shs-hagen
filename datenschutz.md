@@ -64,6 +64,6 @@ Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht v
 
 Quelle: Datenschutzerklärung erstellt mit dem Datenschutz Generator für Deutschland von AdSimple
 
-**[Datenschutzerklärung](https://www.adsimple.de/datenschutz-generator/)**
+[Datenschutzerklärung](https://www.adsimple.de/datenschutz-generator/)
 
 
