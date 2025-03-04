@@ -62,4 +62,8 @@ Widerspruchsrecht (Artikel 21 DSGVO)
 
 Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich an die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) wenden.  
 
-Quelle: Erstellt mit dem Datenschutz Generator von AdSimple in Kooperation mit hashtagbeauty.de
+Quelle: Datenschutzerklärung erstellt mit dem Datenschutz Generator für Deutschland von AdSimple
+
+[Datenschutzerklärung](https://www.adsimple.de/datenschutz-generator/)
+
+
