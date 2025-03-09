@@ -19,7 +19,7 @@ body {
 ## Impressum
 
 **Informationen über den Diensteanbieter**
-* Offizieller Vereinsname laut Satzung:  SHS Hagen - Selbsthilfe Sucht
+*Offizieller Vereinsname laut Satzung:  SHS Hagen - Selbsthilfe Sucht
 * Gründungsdatum: 05. Oktober 2020 (mit Satzung)
 * Vorstandsvorsitzender: Gerd Adamini, Winkelstück 4, 58093 Hagen
 * Vereinsanschrift: Bergstraße 63, 58095 Hagen, Deutschland
@@ -49,7 +49,7 @@ Die Bilder, Fotos und Grafiken auf dieser Webseite sind urheberrechtlich geschü
 Die Bilderrechte liegen bei: 
 https://unsplash.com/de 
 Alle Texte sind urheberrechtlich geschützt.
-Quelle: Erstellt mit dem Impressum Generator von AdSimple
+Quelle: Erstellt mit dem [Impressum Generator](https://www.adsimple.de/impressum-generator/) von AdSimple
   
 
 ## Datenschutzerklärung
