@@ -10,4 +10,4 @@ Ein Selbsttest zum Thema Sucht (wie z.B. zum Thema Alkohol auf [kenn-dein-limit.
 
 ![Menschengruppe Gemeinschaft](assets\images\group.jpg)
 
-Sie sind nicht allein! Unsere Suchtberatung und unsere Gruppengespräche zeigen Ihnen einen Weg aus der Sucht. Wir betreuen aktuell 30 Personen in 4 Gruppen. Eine Aufnahme in eine der Gruppen erfolgt nach einem oder mehreren initialen Einzelgesprächen.
+Sie sind nicht allein! Unsere Suchtberatung und unsere Gruppengespräche zeigen Ihnen einen Weg aus der Sucht. Wir betreuen aktuell 40 Personen in 5 Gruppen. Eine Aufnahme in eine der Gruppen erfolgt nach einem oder mehreren initialen Einzelgesprächen.
