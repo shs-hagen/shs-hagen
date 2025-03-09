@@ -88,13 +88,13 @@ Sofern weitere regionale oder nationale Gesetze zur Anwendung kommen, informiere
 **Kontaktdaten des Verantwortlichen**
 
 Sollten Sie Fragen zum Datenschutz oder zur Verarbeitung personenbezogener Daten haben, finden Sie nachfolgend die Kontaktdaten des Verantwortlichen gemäß Artikel 4 Absatz 7 EU-Datenschutz-Grundverordnung (DSGVO):
-Witold Zgajewski
-Goethestraße 4
-58089 Hagen 
-Vertretungsberechtigt: Gerd Adamini 
-E-Mail: shsselbsthilfesucht@gmail.com 
-Telefon: 02331/933 49 59 (Mo-Fr 10:00 bis 12:00 Uhr) 
-Impressum: https://www.shs-hagen.de/datenschutz.html
+* Witold Zgajewski
+* Goethestraße 4
+* 58089 Hagen 
+* Vertretungsberechtigt: Gerd Adamini 
+* E-Mail: shsselbsthilfesucht@gmail.com 
+* Telefon: 02331/933 49 59 (Mo-Fr 10:00 bis 12:00 Uhr) 
+* Impressum: https://www.shs-hagen.de/datenschutz.html
 
 **Speicherdauer**
 
