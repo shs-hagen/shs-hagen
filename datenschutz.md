@@ -28,30 +28,30 @@ body {
 * E-Mail: shsselbsthilfesucht@gmail.com
 
 **Datenschutz Verantwortlicher:**
-Witold Zgajewski
-Goethestraße 4
-58089 Hagen
+Witold Zgajewski  
+Goethestraße 4  
+58089 Hagen  
 
-E-Mail: shsselbsthilfesucht@gmail.com 
-Tel.: 02331/933 49 59 (Mo-Fr 10:00 bis 12:00 Uhr)
-Impressum: https://www.shs-hagen.de/datenschutz.html 
-Vertretungsberechtigter: Gerd Adamini
+E-Mail: shsselbsthilfesucht@gmail.com  
+Tel.: 02331/933 49 59 (Mo-Fr 10:00 bis 12:00 Uhr)  
+Impressum: https://www.shs-hagen.de/datenschutz.html  
+Vertretungsberechtigter: Gerd Adamini  
 
 **Universalschlichtungsstelle**
 An einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle nehmen wir teil. Die zuständige Stelle ist die Universalschlichtungsstelle des Bundes, Zentrums für Schlichtung e.V., ansässig in der Straßburger Straße 8, 77694 Kehl am Rhein (https://www.verbraucher-schlichter.de).
 
 **EU-Streitschlichtung**
-Gemäß Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten (ODR-Verordnung) möchten wir Sie über die Online-Streitbeilegungsplattform (OS-Plattform) informieren.
-Verbraucher haben die Möglichkeit, Beschwerden an die Online Streitbeilegungsplattform der Europäischen Kommission unter https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=DE zu richten. Die dafür notwendigen Kontaktdaten finden Sie oberhalb in unserem Impressum.
+Gemäß Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten (ODR-Verordnung) möchten wir Sie über die Online-Streitbeilegungsplattform (OS-Plattform) informieren.  
+Verbraucher haben die Möglichkeit, Beschwerden an die Online [Streitbeilegungsplattform der Europäischen Kommission](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=DE). Die dafür notwendigen Kontaktdaten finden Sie oberhalb in unserem Impressum.  
 Wir möchten Sie jedoch darauf hinweisen, dass wir nicht bereit oder verpflichtet sind, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
 Bildernachweis
 Die Bilder, Fotos und Grafiken auf dieser Webseite sind urheberrechtlich geschützt.
 Die Bilderrechte liegen bei: 
-https://unsplash.com/de 
-Alle Texte sind urheberrechtlich geschützt.
-Quelle: Erstellt mit dem [Impressum Generator](https://www.adsimple.de/impressum-generator/) von AdSimple
+[https://unsplash.com/de](https://unsplash.com/de)  
+Alle Texte sind urheberrechtlich geschützt.  
+Quelle: Erstellt mit dem [Impressum Generator](https://www.adsimple.de/impressum-generator/) von AdSimple  
   
-
 ## Datenschutzerklärung
 
 **Einleitung und Überblick**
@@ -72,29 +72,29 @@ Kurz gesagt: Die Datenschutzerklärung gilt für alle Bereiche, in denen persone
 **Rechtsgrundlagen**
 
 In der folgenden Datenschutzerklärung geben wir Ihnen transparente Informationen zu den rechtlichen Grundsätzen und Vorschriften, also den Rechtsgrundlagen der Datenschutz-Grundverordnung, die uns ermöglichen, personenbezogene Daten zu verarbeiten.
-Was das EU-Recht betrifft, beziehen wir uns auf die VERORDNUNG (EU) 2016/679 DES EUROPÄISCHEN PARLAMENTS UND DES RATES vom 27. April 2016. Diese Datenschutz-Grundverordnung der EU können Sie selbstverständlich online auf EUR-Lex, dem Zugang zum EU-Recht, unter https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679 nachlesen.
+Was das EU-Recht betrifft, beziehen wir uns auf die VERORDNUNG (EU) 2016/679 DES EUROPÄISCHEN PARLAMENTS UND DES RATES vom 27. April 2016. Diese Datenschutz-Grundverordnung der EU können Sie selbstverständlich [online auf EUR-Lex](https://eur-lex.europa.eu/legal-content/DE/ALL/?uri=celex%3A32016R0679), dem Zugang zum EU-Recht,  nachlesen.
 Wir verarbeiten Ihre Daten nur, wenn mindestens eine der folgenden Bedingungen zutrifft:
 
-1.	Einwilligung (Artikel 6 Absatz 1 lit. a DSGVO): Sie haben uns Ihre Einwilligung gegeben, Daten zu einem bestimmten Zweck zu verarbeiten. Ein Beispiel wäre die Speicherung Ihrer eingegebenen Daten eines Kontaktformulars.
-2.	Vertrag (Artikel 6 Absatz 1 lit. b DSGVO): Um einen Vertrag oder vorvertragliche Verpflichtungen mit Ihnen zu erfüllen, verarbeiten wir Ihre Daten. Wenn wir zum Beispiel einen Kaufvertrag mit Ihnen abschließen, benötigen wir vorab personenbezogene Informationen.
-3.	Rechtliche Verpflichtung (Artikel 6 Absatz 1 lit. c DSGVO): Wenn wir einer rechtlichen Verpflichtung unterliegen, verarbeiten wir Ihre Daten. Zum Beispiel sind wir gesetzlich verpflichtet Rechnungen für die Buchhaltung aufzuheben. Diese enthalten in der Regel personenbezogene Daten.
-4.	Berechtigte Interessen (Artikel 6 Absatz 1 lit. f DSGVO): Im Falle berechtigter Interessen, die Ihre Grundrechte nicht einschränken, behalten wir uns die Verarbeitung personenbezogener Daten vor. Wir müssen zum Beispiel gewisse Daten verarbeiten, um unsere Website sicher und wirtschaftlich effizient betreiben zu können. Diese Verarbeitung ist somit ein berechtigtes Interesse.
+1.	Einwilligung (Artikel 6 Absatz 1 lit. a DSGVO): Sie haben uns Ihre Einwilligung gegeben, Daten zu einem bestimmten Zweck zu verarbeiten. Ein Beispiel wäre die Speicherung Ihrer eingegebenen Daten eines Kontaktformulars.  
+2.	Vertrag (Artikel 6 Absatz 1 lit. b DSGVO): Um einen Vertrag oder vorvertragliche Verpflichtungen mit Ihnen zu erfüllen, verarbeiten wir Ihre Daten. Wenn wir zum Beispiel einen Kaufvertrag mit Ihnen abschließen, benötigen wir vorab personenbezogene Informationen.  
+3.	Rechtliche Verpflichtung (Artikel 6 Absatz 1 lit. c DSGVO): Wenn wir einer rechtlichen Verpflichtung unterliegen, verarbeiten wir Ihre Daten. Zum Beispiel sind wir gesetzlich verpflichtet Rechnungen für die Buchhaltung aufzuheben. Diese enthalten in der Regel personenbezogene Daten.  
+4.	Berechtigte Interessen (Artikel 6 Absatz 1 lit. f DSGVO): Im Falle berechtigter Interessen, die Ihre Grundrechte nicht einschränken, behalten wir uns die Verarbeitung personenbezogener Daten vor. Wir müssen zum Beispiel gewisse Daten verarbeiten, um unsere Website sicher und wirtschaftlich effizient betreiben zu können. Diese Verarbeitung ist somit ein berechtigtes Interesse.  
 Weitere Bedingungen wie die Wahrnehmung von Aufnahmen im öffentlichen Interesse und Ausübung öffentlicher Gewalt sowie dem Schutz lebenswichtiger Interessen treten bei uns in der Regel nicht auf. Soweit eine solche Rechtsgrundlage doch einschlägig sein sollte, wird diese an der entsprechenden Stelle ausgewiesen.
 Zusätzlich zu der EU-Verordnung gelten auch noch nationale Gesetze:
-•	In Österreich ist dies das Bundesgesetz zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten (Datenschutzgesetz), kurz DSG.
-•	In Deutschland gilt das Bundesdatenschutzgesetz, kurz BDSG.
+*	In Österreich ist dies das Bundesgesetz zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten (Datenschutzgesetz), kurz DSG.
+*	In Deutschland gilt das Bundesdatenschutzgesetz, kurz BDSG.
 Sofern weitere regionale oder nationale Gesetze zur Anwendung kommen, informieren wir Sie in den folgenden Abschnitten darüber.
 
 **Kontaktdaten des Verantwortlichen**
 
 Sollten Sie Fragen zum Datenschutz oder zur Verarbeitung personenbezogener Daten haben, finden Sie nachfolgend die Kontaktdaten des Verantwortlichen gemäß Artikel 4 Absatz 7 EU-Datenschutz-Grundverordnung (DSGVO):
-* Witold Zgajewski
-* Goethestraße 4
-* 58089 Hagen 
-* Vertretungsberechtigt: Gerd Adamini 
-* E-Mail: shsselbsthilfesucht@gmail.com 
-* Telefon: 02331/933 49 59 (Mo-Fr 10:00 bis 12:00 Uhr) 
-* Impressum: https://www.shs-hagen.de/datenschutz.html
+Witold Zgajewski  
+Goethestraße 4  
+58089 Hagen  
+Vertretungsberechtigt: Gerd Adamini  
+E-Mail: shsselbsthilfesucht@gmail.com  
+Telefon: 02331/933 49 59 (Mo-Fr 10:00 bis 12:00 Uhr)  
+Impressum: https://www.shs-hagen.de/datenschutz.html  
 
 **Speicherdauer**
 
@@ -125,15 +125,15 @@ o	Werden Daten verwendet, um Profiling zu betreiben, können Sie jederzeit gegen
 •	Sie haben laut Artikel 22 DSGVO unter Umständen das Recht, nicht einer ausschließlich auf einer automatisierten Verarbeitung (zum Beispiel Profiling) beruhenden Entscheidung unterworfen zu werden.
 •	Sie haben laut Artikel 77 DSGVO das Recht auf Beschwerde. Das heißt, Sie können sich jederzeit bei der Datenschutzbehörde beschweren, wenn Sie der Meinung sind, dass die Datenverarbeitung von personenbezogenen Daten gegen die DSGVO verstößt.
 Kurz gesagt: Sie haben Rechte – zögern Sie nicht, die oben gelistete verantwortliche Stelle bei uns zu kontaktieren!
-Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche in sonst einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren. Diese ist für Österreich die Datenschutzbehörde, deren Website Sie unter https://www.dsb.gv.at/ finden. In Deutschland gibt es für jedes Bundesland einen Datenschutzbeauftragten. Für nähere Informationen können Sie sich an die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) wenden. Für unser Unternehmen ist die folgende lokale Datenschutzbehörde zuständig:
+Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche in sonst einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren (für [Österreich](https://www.dsb.gv.at/)). In Deutschland gibt es für jedes Bundesland einen Datenschutzbeauftragten. Für nähere Informationen können Sie sich an die Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (BfDI) wenden. Für unser Unternehmen ist die folgende lokale Datenschutzbehörde zuständig:
 
 **Nordrhein-Westfalen Datenschutzbehörde**
 
-Landesbeauftragte für Datenschutz: Bettina Gayk
-Adresse: Kavalleriestraße 2-4, 40213 Düsseldorf
-Telefonnr.: 02 11/384 24-0
-E-Mail-Adresse: poststelle@ldi.nrw.de 
-Website: https://www.ldi.nrw.de/
+Landesbeauftragte für Datenschutz: Bettina Gayk  
+Adresse: Kavalleriestraße 2-4, 40213 Düsseldorf  
+Telefonnr.: 02 11/384 24-0  
+E-Mail-Adresse: poststelle@ldi.nrw.de  
+Website: https://www.ldi.nrw.de/  
 
 **Sicherheit der Datenverarbeitung**
 
@@ -150,14 +150,14 @@ Wenn Sie mehr zum Thema Verschlüsselung wissen möchten, empfehlen wir die Goog
 
 **Kommunikation**
 
-Kommunikation Zusammenfassung 
-👥 Betroffene: Alle, die mit uns per Telefon, E-Mail oder Online-Formular kommunizieren
+Kommunikation Zusammenfassung  
+👥 Betroffene: Alle, die mit uns per Telefon, E-Mail oder Online-Formular kommunizieren  
 📓 Verarbeitete Daten: z. B. Telefonnummer, Name, E-Mail-Adresse, eingegebene Formulardaten. Mehr Details dazu finden Sie bei der jeweils eingesetzten Kontaktart
-🤝 Zweck: Abwicklung der Kommunikation mit Kunden, Geschäftspartnern usw.
-📅 Speicherdauer: Dauer des Geschäftsfalls und der gesetzlichen Vorschriften
-⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. b DSGVO (Vertrag), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)
-Wenn Sie mit uns Kontakt aufnehmen und per Telefon, E-Mail oder Online-Formular kommunizieren, kann es zur Verarbeitung personenbezogener Daten kommen.
-Die Daten werden für die Abwicklung und Bearbeitung Ihrer Frage und des damit zusammenhängenden Geschäftsvorgangs verarbeitet. Die Daten während eben solange gespeichert bzw. solange es das Gesetz vorschreibt.
+🤝 Zweck: Abwicklung der Kommunikation mit Kunden, Geschäftspartnern usw.  
+📅 Speicherdauer: Dauer des Geschäftsfalls und der gesetzlichen Vorschriften  
+⚖️ Rechtsgrundlagen: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung), Art. 6 Abs. 1 lit. b DSGVO (Vertrag), Art. 6 Abs. 1 lit. f DSGVO (Berechtigte Interessen)  
+Wenn Sie mit uns Kontakt aufnehmen und per Telefon, E-Mail oder Online-Formular kommunizieren, kann es zur Verarbeitung personenbezogener Daten kommen.  
+Die Daten werden für die Abwicklung und Bearbeitung Ihrer Frage und des damit zusammenhängenden Geschäftsvorgangs verarbeitet. Die Daten während eben solange gespeichert bzw. solange es das Gesetz vorschreibt.  
 
 **Betroffene Personen**
 
