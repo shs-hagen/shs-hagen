@@ -18,16 +18,17 @@ body {
 
 ## Impressum
 
-**Informationen über den Diensteanbieter**
-* Offizieller Vereinsname laut Satzung:  SHS Hagen - Selbsthilfe Sucht
-* Gründungsdatum: 05. Oktober 2020 (mit Satzung)
-* Vorstandsvorsitzender: Gerd Adamini, Winkelstück 4, 58093 Hagen
-* Vereinsanschrift: Bergstraße 63, 58095 Hagen, Deutschland
-* Tel.: 02331/933 49 59 (Mo-Fr 10:00 bis 12:00 Uhr)
-* Fax: 02331/933 49 58
-* E-Mail: shsselbsthilfesucht@gmail.com
+**Informationen über den Diensteanbieter**  
+Offizieller Vereinsname laut Satzung:  SHS Hagen - Selbsthilfe Sucht  
+Gründungsdatum: 05. Oktober 2020 (mit Satzung)  
+Vorstandsvorsitzender: Gerd Adamini, Winkelstück 4, 58093 Hagen  
+Vereinsanschrift: Bergstraße 63, 58095 Hagen, Deutschland  
 
-**Datenschutz Verantwortlicher:**
+Tel.: 02331/933 49 59 (Mo-Fr 10:00 bis 12:00 Uhr)  
+Fax: 02331/933 49 58  
+E-Mail: shsselbsthilfesucht@gmail.com  
+
+**Datenschutz Verantwortlicher:**  
 Witold Zgajewski  
 Goethestraße 4  
 58089 Hagen  
@@ -41,14 +42,12 @@ Vertretungsberechtigter: Gerd Adamini
 An einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle nehmen wir teil. Die zuständige Stelle ist die Universalschlichtungsstelle des Bundes, Zentrums für Schlichtung e.V., ansässig in der Straßburger Straße 8, 77694 Kehl am Rhein (https://www.verbraucher-schlichter.de).
 
 **EU-Streitschlichtung**
-Gemäß Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten (ODR-Verordnung) möchten wir Sie über die Online-Streitbeilegungsplattform (OS-Plattform) informieren.  
-Verbraucher haben die Möglichkeit, Beschwerden an die Online [Streitbeilegungsplattform der Europäischen Kommission](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=DE). Die dafür notwendigen Kontaktdaten finden Sie oberhalb in unserem Impressum.  
-Wir möchten Sie jedoch darauf hinweisen, dass wir nicht bereit oder verpflichtet sind, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+Gemäß Verordnung über Online-Streitbeilegung in Verbraucherangelegenheiten (ODR-Verordnung) möchten wir Sie über die Online-Streitbeilegungsplattform (OS-Plattform) informieren. Verbraucher haben die Möglichkeit, Beschwerden an die Online [Streitbeilegungsplattform der Europäischen Kommission](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=DE). Die dafür notwendigen Kontaktdaten finden Sie oberhalb in unserem Impressum.  Wir möchten Sie jedoch darauf hinweisen, dass wir nicht bereit oder verpflichtet sind, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
-Bildernachweis
-Die Bilder, Fotos und Grafiken auf dieser Webseite sind urheberrechtlich geschützt.
-Die Bilderrechte liegen bei: 
-[https://unsplash.com/de](https://unsplash.com/de)  
+Bildernachweis  
+Die Bilder, Fotos und Grafiken auf dieser Webseite sind urheberrechtlich geschützt.  
+Die Bilderrechte liegen bei:   
+[https://unsplash.com/de](https://unsplash.com/de)   
 Alle Texte sind urheberrechtlich geschützt.  
 Quelle: Erstellt mit dem [Impressum Generator](https://www.adsimple.de/impressum-generator/) von AdSimple  
   
